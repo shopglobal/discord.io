@@ -1,4 +1,16 @@
 
+# Discord Token
+https://discordapp.com/developers/applications/me
+
+source: https://github.com/electronero-pulse/Monero-TipBot/tree/develop#discord-token-setup
+
+# Client ID
+change {CLIENTID} for your client ID 
+https://discordapp.com/oauth2/authorize?client_id={CLIENTID}&scope=bot
+
+source: https://github.com/jagrosh/MusicBot/wiki/Adding-Your-Bot-To-Your-Server
+
+
 <p align="center"><img src="http://i.imgur.com/kFzW7Uo.png"></p>
 <h1 align="center">discord.io</h1>
 
